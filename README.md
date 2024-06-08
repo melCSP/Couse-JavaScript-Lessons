@@ -1,2 +1,1 @@
-JavaScript e Html
-couse JavaScript and Html
+Couse JavaScript and Html
